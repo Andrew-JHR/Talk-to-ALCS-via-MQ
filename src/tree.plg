@@ -1,0 +1,53 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: tree - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP695.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/tree.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\tree\MainFrm.cpp"
+"D:\tree\tree.cpp"
+"D:\tree\treeView.cpp"
+"D:\tree\View4.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP695.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP696.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/tree.pdb" /debug /machine:I386 /out:"Debug/tree.exe" /pdbtype:sept 
+.\Debug\MainFrm.obj
+.\Debug\StdAfx.obj
+.\Debug\tree.obj
+.\Debug\treeDoc.obj
+.\Debug\treeSplitter.obj
+.\Debug\treeView.obj
+.\Debug\View1.obj
+.\Debug\View2.obj
+.\Debug\View3.obj
+.\Debug\View4.obj
+.\Debug\tree.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP696.tmp"
+<h3>Output Window</h3>
+Compiling...
+View4.cpp
+Generating Code...
+Skipping... (no relevant changes detected)
+MainFrm.cpp
+tree.cpp
+treeView.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/tree.bsc"  .\Debug\StdAfx.sbr .\Debug\MainFrm.sbr .\Debug\tree.sbr .\Debug\treeDoc.sbr .\Debug\treeSplitter.sbr .\Debug\treeView.sbr .\Debug\View1.sbr .\Debug\View2.sbr .\Debug\View3.sbr .\Debug\View4.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+tree.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

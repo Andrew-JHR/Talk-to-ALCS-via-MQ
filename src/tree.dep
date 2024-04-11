@@ -1,0 +1,74 @@
+# Microsoft Developer Studio Generated Dependency File, included by tree.mak
+
+.\MainFrm.cpp : \
+	".\MainFrm.h"\
+	".\tree.h"\
+	".\treeDoc.h"\
+	".\treeSplitter.h"\
+	".\treeView.h"\
+	".\View1.h"\
+	".\View2.h"\
+	".\View3.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	
+
+.\tree.cpp : \
+	".\MainFrm.h"\
+	".\tree.h"\
+	".\treeDoc.h"\
+	".\treeSplitter.h"\
+	".\treeView.h"\
+	".\View1.h"\
+	".\View2.h"\
+	".\View3.h"\
+	
+
+.\tree.rc : \
+	".\res\ico00001.ico"\
+	".\res\idr_view.ico"\
+	".\res\Toolbar.bmp"\
+	".\res\tree.ico"\
+	".\res\tree.rc2"\
+	".\res\treeDoc.ico"\
+	".\sdi.ico"\
+	
+
+.\treeDoc.cpp : \
+	".\tree.h"\
+	".\treeDoc.h"\
+	
+
+.\treeSplitter.cpp : \
+	".\tree.h"\
+	".\treeSplitter.h"\
+	
+
+.\treeView.cpp : \
+	".\MainFrm.h"\
+	".\tree.h"\
+	".\treeDoc.h"\
+	".\treeSplitter.h"\
+	".\treeView.h"\
+	".\View1.h"\
+	".\View2.h"\
+	".\View3.h"\
+	
+
+.\View1.cpp : \
+	".\tree.h"\
+	".\View1.h"\
+	
+
+.\View2.cpp : \
+	".\tree.h"\
+	".\View2.h"\
+	
+
+.\View3.cpp : \
+	".\tree.h"\
+	".\View3.h"\
+	
